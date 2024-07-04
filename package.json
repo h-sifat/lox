@@ -1,0 +1,18 @@
+{
+  "name": "lox",
+  "version": "1.0.0",
+  "description": "Learning how to build an interpreter from [Crafting Interpreters](https://www.craftinginterpreters.com).",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/lodash": "^4.17.6",
+    "lodash": "^4.17.21",
+    "type-fest": "^4.21.0",
+    "typescript": "^5.5.3"
+  }
+}
